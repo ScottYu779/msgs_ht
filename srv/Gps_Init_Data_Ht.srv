@@ -1,0 +1,8 @@
+float64 latitude_zero
+float64 longitude_zero
+float64 height_zero
+float64 x_zero
+float64 y_zero
+float64 z_zero
+
+nav_msgs/Path path
